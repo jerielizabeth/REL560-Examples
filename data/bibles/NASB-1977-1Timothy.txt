@@ -16,8 +16,7 @@ THE FIRST EPISTLE OF PAUL TO TIMOTHY
 13 even though I was formerly a blasphemer and a persecutor and a violent aggressor. And yet I was shown mercy, because I acted ignorantly in unbelief;
 14 and the grace of our Lord was more than abundant, with the faith and love which are found in Christ Jesus.
 15 It is a trustworthy statement, deserving full acceptance, that Christ Jesus came into the world to save sinners, among whom I am foremost of all.
-16 And yet for this reason I found mercy, in order that in me as the foremost, Jesus Christ might demonstrate His perfect patience, as an example for
-those who would believe in Him for eternal life.
+16 And yet for this reason I found mercy, in order that in me as the foremost, Jesus Christ might demonstrate His perfect patience, as an example for those who would believe in Him for eternal life.
 17 Now to the King eternal, immortal, invisible, the only God, be honor and glory forever and ever. Amen.
 18 This command I entrust to you, Timothy, my son, in accordance with the prophecies previously made concerning you, that by them you may fight the good fight,
 19 keeping faith and a good conscience, which some have rejected and suffered shipwreck in regard to their faith.
@@ -43,7 +42,9 @@ Chapter 2
 An Overseer’s Qualifications.
 
 15 But women shall be preserved through the bearing of children if they continue in faith and love and sanctity with self-restraint.
+
 Chapter 3
+
 1 It is a trustworthy statement: if any man aspires to the office of overseer, it is a fine work he desires to do.
 2 An overseer, then, must be above reproach, the husband of one wife, temperate, prudent, respectable, hospitable, able to teach,
 3 not addicted to wine or pugnacious, but gentle, uncontentious, free from the love of money.
@@ -59,14 +60,10 @@ Chapter 3
 13 For those who have served well as deacons obtain for themselves a high standing and great confidence in the faith that is in Christ Jesus.
 14 I am writing these things to you, hoping to come to you before long;
 15 but in case I am delayed, I write so that you may know how one ought to conduct himself in the household of God, which is the church of the living God, the pillar and support of the truth.
-16 And by common confession great is the mystery of godliness:
-	(1) He who was revealed in the flesh, 
-	Was vindicated in the Spirit, 
-	Beheld by angels, 
-	Proclaimed among the nations, 
-	Believed on in the world, 
-	Taken up in glory.
+16 And by common confession great is the mystery of godliness: \t(1) He who was revealed in the flesh,\tWas vindicated in the\tSpirit,\tBeheld by angels,\tProclaimed among the nations,\tBelieved on in the world,\tTaken up in glory.
+
 Chapter 4
+
 1 But the Spirit explicitly says that in later times some will fall away from the faith, paying attention to deceitful spirits and doctrines of demons,
 2 by means of the hypocrisy of liars seared in their own conscience as with a branding iron,
 3 men who forbid marriage and advocate abstaining from foods, which God has created to be gratefully shared in by those who believe and know the truth.
@@ -83,13 +80,11 @@ Chapter 4
 14 Do not neglect the spiritual gift within you, which was bestowed upon you through prophetic utterance with the laying on of hands by the presbytery.
 15 Take pains with these things; be absorbed in them, so that your progress may be evident to all.
 16 Pay close attention to yourself and to your teaching; persevere in these things; for as you do this you will insure salvation both for yourself and for those who hear you.
+
 Chapter 5
+
 1 Do not sharply rebuke an older man, but rather appeal to him as a father, to the younger men as brothers,
 2 the older women as mothers, and the younger women as sisters, in all purity.
-
-1 Some later mss. read God
-
-
 
 Concerning Widows and Elders.
 
@@ -126,25 +121,21 @@ Chapter 6
 7 For we have brought nothing into the world, (2) so we cannot take anything out of it either.
 8 And if we have food and covering, with these we shall be content.
 9 But those who want to get rich fall into temptation and a snare and many foolish and harmful desires which plunge men into ruin and destruction.
-10 For the love of money is a root of all sorts of evil, and some by longing for it
-
-2 Later mss. read it is clear that
-
-
 
 The Good Fight.
 
-have wandered away from the faith, and pierced themselves with many a pang.
+10 For the love of money is a root of all sorts of evil, and some by longing for it have wandered away from the faith, and pierced themselves with many a pang.
 11 But flee from these things, you man of God; and pursue righteousness, godliness, faith, love, perseverance and gentleness.
 12 Fight the good fight of faith; take hold of the eternal life to which you were called, and you made the good confession in the presence of many witnesses.
 13 I charge you in the presence of God, who gives life to all things, and of Christ Jesus, who testified the good confession before Pontius Pilate,
 14 that you keep the commandment without stain or reproach until the appearing of our Lord Jesus Christ,
 15 which He will bring about at the proper time—He who is the blessed and only Sovereign, the King of kings and Lord of lords;
-16 who alone possesses immortality and dwells in unapproachable light;
-whom no man has seen or can see. To Him be honor and eternal dominion! Amen.
+16 who alone possesses immortality and dwells in unapproachable light; whom no man has seen or can see. To Him be honor and eternal dominion! Amen.
 17 Instruct those who are rich in this present world not to be conceited or to fix their hope on the uncertainty of riches, but on God, who richly supplies us with all things to enjoy.
 18 Instruct them to do good, to be rich in good works, to be generous and ready to share,
 19 storing up for themselves the treasure of a good foundation for the future, so that they may take hold of that which is life indeed.
 20 O Timothy, guard what has been entrusted to you, avoiding worldly and empty chatter and the opposing arguments of what is falsely called “knowledge”—
-21 which some have professed and thus gone astray from the faith.
-Grace be with you.
+21 which some have professed and thus gone astray from the faith. Grace be with you.
+
+n1 Some later mss. read God
+n2 Later mss. read it is clear that

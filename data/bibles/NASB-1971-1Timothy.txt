@@ -92,14 +92,10 @@ Deacons. Apostacy. Your Discipline.
 13 For those who have served well as deacons obtain for themselves a (1) high standing and great confidence in the faith that is in Christ Jesus.
 14 I am writing these things to you, hoping to come to you before long;
 15 but in case I am delayed, (1) write so that you may know how (2) one ought to conduct himself in the household of God, which is the church of the living God, the pillar and support of the truth.
-16 And by common confession great is the mystery of godliness:
-	(1) He who was brevealed in the flesh,
-	Was (2) vindicated (3) in the Spirit,
-	Beheld by angels,
-	Proclaimed among the nations,
-	Believed on in the world,
-	Taken up in glory.
+16 And by common confession great is the mystery of godliness:\t(1) He who was brevealed in the flesh,\tWas (2) vindicated (3) in the Spirit,\tBeheld by angels,\tProclaimed among the nations,\tBelieved on in the world,\tTaken up in glory.
+
 Chapter 4
+
 1 But the Spirit explicitly says that in later times some will fall away from the faith, paying attention to deceitful spirits and doctrines of demons,
 2 by means of the hypocrisy of liars seared in their own conscience as with a branding iron,
 3 men who forbid marriage and advocate abstaining from foods, which God has created to be gratefully shared in by those who believe and know the truth.
@@ -135,7 +131,9 @@ is profitable for all things, since it holds promise for the present life and al
 14 Do not neglect the spiritual gift within you, which was bestowed upon you through prophetic utterance with the laying on of hands by the (1) presbytery.
 15 Take pains with these things; be absorbed in them, so that your progress may be evident to all.
 16 Pay close attention to yourself and to your teaching; persevere in these things; for as you do this you will (1) insure salvation both for yourself and for those who hear you.
+
 Chapter 5
+
 1 Do not sharply rebuke an older man, but rather appeal to him as a father; the younger men as brothers,
 2 the older women as mothers, and the younger women as sisters, in all purity.
 3 Honor widows who are widows indeed;
@@ -148,7 +146,8 @@ Chapter 5
 10 having a reputation for good works; and if she has brought up children, if she has shown hospitality to strangers, if she has washed the (1) saints’ feet, if she has assisted those in distress, and if she has devoted herself to every good work.
 11 But refuse to put younger widows on the list, for when they feel sensual desires in disregard of Christ, they want to get married,
 12 thus incurring condemnation, because they have set aside their previous (1) pledge.
-13 And at the same time they also learn to be idle, as they go around from house to house; and not merely idle, but also
+13 And at the same time they also learn to be idle, as they go around from house to house; and not merely idle, but also gossips and busybodies, talking about things not proper to mention.
+
 
 11-1 Or, Keep commanding and teaching
 12-1 Or, to
@@ -163,7 +162,6 @@ Chapter 5
 
 Concerning Elders. Controversial Questions.
 
-gossips and busybodies, talking about things not proper to mention.
 14 Therefore, I want younger widows to get married, bear children, keep house, and give the enemy no occasion for reproach;
 15 for some have already turned aside to follow Satan.
 16 If any woman who is a believer has dependent widows, let her assist them, and let not the church be burdened, so that it may assist those who are widows indeed.
@@ -176,6 +174,7 @@ gossips and busybodies, talking about things not proper to mention.
 23 No longer drink water exclusively, but use a little wine for the sake of your stomach and your frequent ailments.
 24 The sins of some men are quite evident, going before them to judgment; for others, their sins follow after.
 25 Likewise also, deeds that are good are quite evident, and those which are otherwise cannot be concealed.
+
 Chapter 6
 1 Let all who are under the yoke as slaves regard their own masters as worthy of all honor so that the name of God and our doctrine may not be spoken against.
 2 And let those who have believers as their masters not be disrespectful to them because they are brethren, but let them serve them all the more, because those who (1) partake of the benefit are believers and beloved. Teach and (2) preach these principles.
@@ -213,8 +212,7 @@ The Peril of Riches. The Good Fight.
 18 Instruct them to do good, to be rich in good (1) works, to be generous and ready to share,
 19 storing up for themselves the treasure of a good foundation for the future, so that they may take hold of that which is life indeed.
 20 O Timothy, guard what has been entrusted to you, avoiding worldly and empty chatter and the opposing arguments of what is falsely called ‘knowledge’—
-21 which some have professed and thus gone astray (1) from the faith.
-Grace be with you.
+21 which some have professed and thus gone astray (1) from the faith. Grace be with you.
 
 10-1 Lit., the evils
 11-1 Or, steadfastness
